@@ -1,5 +1,5 @@
 # conda env create --file environment.yml
-name: Learning ANN
+name: Learning-ANN
 channels:
   - anaconda
   - conda-forge
